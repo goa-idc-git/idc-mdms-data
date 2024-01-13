@@ -7197,18 +7197,6 @@
 			"path": "Property Tax.PTIS Reports.PT Report V1 Metadata"
 		},
 		{
-			"id": 954,
-			"name": "MDMS Search",
-			"url": "/egov-mdms-service/v1/_search",
-			"displayName": "MDMS Search",
-			"orderNumber": 0,
-			"parentModule": "306",
-			"enabled": false,
-			"serviceCode": "MDMS Search",
-			"code": "null",
-			"path": ""
-		},
-		{
 			"id": 955,
 			"name": "Search Compensatory Leaves",
 			"url": "/hr-leave/compensatoryleaves/_search",
@@ -13470,35 +13458,11 @@
 			"rightIcon": ""
 		},
 		{
-			"id": 1750,
-			"name": "Employee Create",
-			"url": "/egov-hrms/employees/_create",
-			"parentModule": "egov-hrms",
-			"displayName": "Employee Create",
-			"orderNumber": 0,
-			"enabled": false,
-			"serviceCode": "egov-hrms",
-			"code": "null",
-			"path": ""
-		},
-		{
 			"id": 1751,
 			"name": "Employee Update",
 			"url": "/egov-hrms/employees/_update",
 			"parentModule": "egov-hrms",
 			"displayName": "Employee Update",
-			"orderNumber": 0,
-			"enabled": false,
-			"serviceCode": "egov-hrms",
-			"code": "null",
-			"path": ""
-		},
-		{
-			"id": 1752,
-			"name": "Employee Search",
-			"url": "/egov-hrms/employees/_search",
-			"parentModule": "egov-hrms",
-			"displayName": "Employee Search",
 			"orderNumber": 0,
 			"enabled": false,
 			"serviceCode": "egov-hrms",
@@ -16878,18 +16842,6 @@
 			"queryParams": ""
 		},
 		{
-			"id": 2026,
-			"name": "WorkflowProcessCount",
-			"url": "/egov-workflow-v2/egov-wf/process/_count",
-			"displayName": "Workflow Count",
-			"orderNumber": 1,
-			"parentModule": "",
-			"enabled": false,
-			"serviceCode": "",
-			"code": "null",
-			"path": ""
-		},
-		{
 			"id": 2027,
 			"name": "ReceiptCancellation",
 			"url": "url",
@@ -17056,18 +17008,6 @@
 			"name": "BPA San Payment search",
 			"url": "/collection-services/payments/BPA.NC_SAN_FEE/_search",
 			"displayName": "BPA San Payment search",
-			"orderNumber": 1,
-			"parentModule": "",
-			"enabled": false,
-			"serviceCode": "",
-			"code": "null",
-			"path": ""
-		},
-		{
-			"id": 2041,
-			"name": "BPA OCApplication Payment search",
-			"url": "/collection-services/payments/BPA.NC_OC_APP_FEE/_search",
-			"displayName": "BPA OC Application Payment search",
 			"orderNumber": 1,
 			"parentModule": "",
 			"enabled": false,
@@ -21641,17 +21581,6 @@
 			"path": ""
 		},
 		{
-			"id": 701,
-			"name": "UserLogout",
-			"url": "/user/_logout",
-			"displayName": "UserLogout",
-			"orderNumber": 1,
-			"enabled": true,
-			"serviceCode": "ADMIN",
-			"code": "null",
-			"path": "Administration.UserLogout"
-		},
-		{
 			"id": 695,
 			"name": "SearchUserDetailsV1",
 			"url": "/user/v1/_search",
@@ -21672,17 +21601,6 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.CheckAvailabilty"
-		},
-		{
-			"id": 2402,
-			"name": "SearchAddressByPostalCode",
-			"url": "/user/utils/postaladdress/pincode/{pincode}",
-			"displayName": "Search Address By Postal Code",
-			"orderNumber": 1,
-			"enabled": true,
-			"serviceCode": "ADMIN",
-			"code": "null",
-			"path": "Administration.SearchAddressByPostalCode"
 		},
 		{
 			"id": 2403,
@@ -21727,17 +21645,6 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.CreateEmployee"
-		},
-		{
-			"id": 2407,
-			"name": "MDMSSearch",
-			"url": "/egov-mdms-service/v1/_search",
-			"displayName": "MDMS Search",
-			"orderNumber": 1,
-			"enabled": true,
-			"serviceCode": "ADMIN",
-			"code": "null",
-			"path": "Administration.MDMSSearch"
 		},
 		{
 			"id": 2408,
