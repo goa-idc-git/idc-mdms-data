@@ -17523,12 +17523,6 @@
 			"tenantId": "ga"
 		},
 		{
-			"rolecode": "ENTERPRISE",
-			"actionid": 2422,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
 			"rolecode": "EGF_ADMINISTRATOR",
 			"actionid": 1792,
 			"actioncode": "",
@@ -21209,6 +21203,84 @@
 		{
 			"rolecode": "FIRE_NOC_APPROVER",
 			"actionid": 2040,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "BPA_ARCHITECT",
+			"actionid": 2041,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "BPA_ENGINEER",
+			"actionid": 2041,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "BPA_BUILDER",
+			"actionid": 2041,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "BPA_STRUCTURALENGINEER",
+			"actionid": 2041,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "BPA_TOWNPLANNER",
+			"actionid": 2041,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "BPA_SUPERVISOR",
+			"actionid": 2041,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "BPA_VERIFIER_L1",
+			"actionid": 2041,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "BPA_FIELD_INSPECTOR",
+			"actionid": 2041,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "BPA_NOC_VERIFIER",
+			"actionid": 2041,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "BPA_APPROVER",
+			"actionid": 2041,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ENTERPRISE",
+			"actionid": 2041,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "FIRE_NOC_APPROVER",
+			"actionid": 2041,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "BPA_VERIFIER_L2",
+			"actionid": 2041,
 			"actioncode": "",
 			"tenantId": "ga"
 		},
@@ -26313,20 +26385,14 @@
 			"tenantId": "ga"
 		},
 		{
-			"rolecode": "EMPLOYEE",
-			"actionid": 2404,
+			"rolecode": "EMP_CREATOR",
+			"actionid": 2410,
 			"actioncode": "",
 			"tenantId": "ga"
 		},
 		{
-			"rolecode": "EMPLOYEE",
-			"actionid": 2405,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "EMPLOYEE",
-			"actionid": 2409,
+			"rolecode": "EMP_CREATOR",
+			"actionid": 2412,
 			"actioncode": "",
 			"tenantId": "ga"
 		},
@@ -26363,12 +26429,6 @@
 		{
 			"rolecode": "EMPLOYEE",
 			"actionid": 2414,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "EMPLOYEE",
-			"actionid": 2415,
 			"actioncode": "",
 			"tenantId": "ga"
 		},
@@ -26653,128 +26713,20 @@
 			"tenantId": "ga"
 		},
 		{
-			"rolecode": "ENTERPRISE",
-			"actionid": 24F
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "APPLICANT",
+			"rolecode": "EMP_CREATOR",
 			"actionid": 2415,
 			"actioncode": "",
 			"tenantId": "ga"
 		},
 		{
-			"rolecode": "ALLOTTEE",
+			"rolecode": "EMP_APPROVER",
 			"actionid": 2415,
 			"actioncode": "",
 			"tenantId": "ga"
 		},
 		{
-			"rolecode": "LESSEE",
+			"rolecode": "EMP_VERIFIER",
 			"actionid": 2415,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "TRANSFERRER",
-			"actionid": 2415,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "TRANSFEREE",
-			"actionid": 2415,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "SUB_LESSEE",
-			"actionid": 2415,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "ENTERPRISE",
-			"actionid": 2416,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "APPLICANT",
-			"actionid": 2416,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "ALLOTTEE",
-			"actionid": 2416,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "LESSEE",
-			"actionid": 2416,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "TRANSFERRER",
-			"actionid": 2416,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "TRANSFEREE",
-			"actionid": 2416,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "SUB_LESSEE",
-			"actionid": 2416,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "ENTERPRISE",
-			"actionid": 2417,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "APPLICANT",
-			"actionid": 2417,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "ALLOTTEE",
-			"actionid": 2417,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "LESSEE",
-			"actionid": 2417,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "TRANSFERRER",
-			"actionid": 2417,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "TRANSFEREE",
-			"actionid": 2417,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "SUB_LESSEE",
-			"actionid": 2417,
 			"actioncode": "",
 			"tenantId": "ga"
 		},
@@ -26821,12 +26773,6 @@
 			"tenantId": "ga"
 		},
 		{
-			"rolecode": "EMPLOYEE",
-			"actionid": 2424,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
 			"rolecode": "ENTERPRISE",
 			"actionid": 2425,
 			"actioncode": "",
@@ -26864,12 +26810,6 @@
 		},
 		{
 			"rolecode": "SUB_LESSEE",
-			"actionid": 2425,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "EMPLOYEE",
 			"actionid": 2425,
 			"actioncode": "",
 			"tenantId": "ga"
@@ -27009,6 +26949,48 @@
 		{
 			"rolecode": "ENTERPRISE",
 			"actionid": 2430,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ENTERPRISE",
+			"actionid": 2426,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "APPLICANT",
+			"actionid": 2426,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ALLOTTEE",
+			"actionid": 2426,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "LESSEE",
+			"actionid": 2426,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "TRANSFERRER",
+			"actionid": 2426,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "TRANSFEREE",
+			"actionid": 2426,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "SUB_LESSEE",
+			"actionid": 2426,
 			"actioncode": "",
 			"tenantId": "ga"
 		}
