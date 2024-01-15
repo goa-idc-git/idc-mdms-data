@@ -28789,6 +28789,54 @@
 			"actionid": 2438,
 			"actioncode": "",
 			"tenantId": "ga"
+		},
+		{
+			"rolecode": "EMPLOYEE",
+			"actionid": 2439,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ENTERPRISE",
+			"actionid": 2439,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "APPLICANT",
+			"actionid": 2439,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ALLOTTEE",
+			"actionid": 2439,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "LESSEE",
+			"actionid": 2439,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "TRANSFERRER",
+			"actionid": 2439,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "TRANSFEREE",
+			"actionid": 2439,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "SUB_LESSEE",
+			"actionid": 2439,
+			"actioncode": "",
+			"tenantId": "ga"
 		}
 	]
 }

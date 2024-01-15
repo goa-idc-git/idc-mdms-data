@@ -22124,6 +22124,17 @@
 			"leftIcon": "",
 			"rightIcon": "",
 			"queryParams": ""
+		},
+		{
+			"id": 2439,
+			"name": "userMenuSearch",
+			"url": "/user/menu/_search",
+			"displayName": "User Menu Search",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.userMenuSearch"
 		}
 	]
 }
