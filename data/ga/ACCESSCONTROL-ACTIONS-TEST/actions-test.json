@@ -21651,7 +21651,7 @@
       "rightIcon": ""
     },
     {
-      "id": 2400,
+      "id": "10101010",
       "name": "DSS Report Config PT",
       "url": "/dashboard-analytics/dashboard/getDashboardConfig/ptReport",
       "parentModule": "",
