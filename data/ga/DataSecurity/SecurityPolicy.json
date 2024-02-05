@@ -281,8 +281,20 @@
 				"defaultVisibility": "PLAIN"
 			},
 			{
+				"name": "panNumber",
+				"jsonPath": "panNumber",
+				"patternId": "002",
+				"defaultVisibility": "PLAIN"
+			},
+			{
 				"name": "gstNumber",
 				"jsonPath": "gstNumber",
+				"patternId": "002",
+				"defaultVisibility": "PLAIN"
+			},
+			{
+				"name": "password",
+				"jsonPath": "password",
 				"patternId": "002",
 				"defaultVisibility": "PLAIN"
 			},
@@ -343,6 +355,58 @@
 			{
 				"name": "owners/*/pan",
 				"jsonPath": "owners/*/pan",
+				"patternId": "005",
+				"defaultVisibility": "PLAIN"
+			}
+		],
+		"roleBasedDecryptionPolicy": []
+	},
+	{
+		"model": "EntityOwner",
+		"uniqueIdentifier": {
+			"name": "uuid",
+			"jsonPath": "/uuid"
+		},
+		"attributes": [
+			{
+				"name": "firstName",
+				"jsonPath": "firstName",
+				"patternId": "005",
+				"defaultVisibility": "PLAIN"
+			},
+			{
+				"name": "middleName",
+				"jsonPath": "middleName",
+				"patternId": "005",
+				"defaultVisibility": "PLAIN"
+			},
+			{
+				"name": "lastName",
+				"jsonPath": "lastName",
+				"patternId": "005",
+				"defaultVisibility": "PLAIN"
+			},
+			{
+				"name": "mobileNumber",
+				"jsonPath": "mobileNumber",
+				"patternId": "005",
+				"defaultVisibility": "PLAIN"
+			},
+			{
+				"name": "email",
+				"jsonPath": "email",
+				"patternId": "005",
+				"defaultVisibility": "PLAIN"
+			},
+			{
+				"name": "address1",
+				"jsonPath": "address1",
+				"patternId": "005",
+				"defaultVisibility": "PLAIN"
+			},
+			{
+				"name": "pan",
+				"jsonPath": "pan",
 				"patternId": "005",
 				"defaultVisibility": "PLAIN"
 			}

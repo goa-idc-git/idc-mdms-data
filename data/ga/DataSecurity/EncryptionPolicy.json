@@ -142,6 +142,10 @@
 					"type": "Normal"
 				},
 				{
+					"jsonPath": "password",
+					"type": "Normal"
+				},
+				{
 					"jsonPath": "entityBankDetail/accountHolderName",
 					"type": "Normal"
 				},
@@ -179,6 +183,39 @@
 				},
 				{
 					"jsonPath": "owners/*/pan",
+					"type": "Normal"
+				}
+			]
+		},
+		{
+			"key": "EntityOwner",
+			"attributeList": [
+				{
+					"jsonPath": "firstName",
+					"type": "Normal"
+				},
+				{
+					"jsonPath": "middleName",
+					"type": "Normal"
+				},
+				{
+					"jsonPath": "lastName",
+					"type": "Normal"
+				},
+				{
+					"jsonPath": "mobileNumber",
+					"type": "Normal"
+				},
+				{
+					"jsonPath": "email",
+					"type": "Normal"
+				},
+				{
+					"jsonPath": "address1",
+					"type": "Normal"
+				},
+				{
+					"jsonPath": "pan",
 					"type": "Normal"
 				}
 			]
