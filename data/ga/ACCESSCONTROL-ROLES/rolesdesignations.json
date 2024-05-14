@@ -69,6 +69,12 @@
 			"active": true
 		},
 		{
+			"rolecode": "ENTERPRISE",
+			"designationCode": "ENTERPRISE",
+			"designationName": "Enterprise",
+			"active": true
+		},
+		{
 			"rolecode": "DEED_CREATOR",
 			"designationCode": "LA",
 			"designationName": "Legal Assistant",
