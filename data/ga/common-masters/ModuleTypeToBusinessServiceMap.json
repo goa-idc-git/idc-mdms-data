@@ -16,7 +16,7 @@
 			"moduleCode": "ADMIN",
 			"businessServiceCode": "ARCH",
 			"businessServiceName": "Architect Onboarding",
-			"navUrl": "/goa-idc/usermanagement/architectCreation?applicationNumber=%s&tenantId=%s",
+			"navUrl": "/goa-idc/usermanagement/architect-creation-workflow?applicationNumber=%s&tenantId=%s",
 			"applicationNavUrl": "/goa-idc/usermanagement/architectCreation?applicationNumber=%s&tenantId=%s",
 			"active": true
 		},
@@ -30,8 +30,8 @@
 			"active": true
 		},
 		{
-			"moduleName": "Engineering/Water",
-			"moduleCode": "ENGINEERING_WATER",
+			"moduleName": "Engineering",
+			"moduleCode": "ENGINEERING",
 			"businessServiceCode": "WF_BPA_CL",
 			"businessServiceName": "Construction Licence",
 			"navUrl": "/goa-idc/obpas/constructionLicense?applicationNumber=%s&tenantId=%s",
@@ -39,8 +39,8 @@
 			"active": true
 		},
 		{
-			"moduleName": "Engineering/Water",
-			"moduleCode": "ENGINEERING_WATER",
+			"moduleName": "Engineering",
+			"moduleCode": "ENGINEERING",
 			"businessServiceCode": "WF_BPA_OC",
 			"businessServiceName": "Occupancy Certificate",
 			"navUrl": "/goa-idc/obpas/occupancyCertificate?applicationNumber=%s&tenantId=%s",
@@ -207,6 +207,132 @@
 			"businessServiceName": "Lease Term Extension",
 			"navUrl": "/goa-idc/estate/lease-term-extension/workflow?applicationNumber=%s&tenantId=%s",
 			"applicationNavUrl": "/goa-idc/estate/lease-term-extension?applicationNumber=%s&tenantId=%s",
+			"active": true
+		},
+		{
+			"moduleName": "Estate",
+			"moduleCode": "ESTD",
+			"businessServiceCode": "EST_MORTGAGE",
+			"businessServiceName": "Mortgage",
+			"navUrl": "/goa-idc/estate/mortgage-workflow?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/estate/mortgage?applicationNumber=%s&tenantId=%s",
+			"active": true
+		},
+		{
+			"moduleName": "Estate",
+			"moduleCode": "ESTD",
+			"businessServiceCode": "EST_CHANGE_IN_OWNERSHIP_INTEREST_NAME_TRADE",
+			"businessServiceName": "Change in Ownership/Name/Trade",
+			"navUrl": "/goa-idc/estate/change-in-ownership-name-trade/workflow?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/estate/change-in-ownership-name-trade?applicationNumber=%s&tenantId=%s",
+			"active": true
+		},
+		{
+			"moduleName": "Estate",
+			"moduleCode": "ESTD",
+			"businessServiceCode": "EST_SURRENDER",
+			"businessServiceName": "Plot Surrender",
+			"navUrl": "/goa-idc/estate/surrender-workflow?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/estate/surrender?applicationNumber=%s&tenantId=%s",
+			"active": true
+		},
+		{
+			"moduleName": "Estate",
+			"moduleCode": "ESTD",
+			"businessServiceCode": "EST_COMMERCIAL_OPS_DETAILS",
+			"businessServiceName": "Commercial Operation Details",
+			"navUrl": "/goa-idc/estate/commercial-application/workflow?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/estate/commercial-application/apply?applicationNumber=%s&tenantId=%s",
+			"active": true
+		},
+		{
+			"moduleName": "Legal",
+			"moduleCode": "LGLS",
+			"businessServiceCode": "LEGAL_SYSYTEM_SHOW_CAUSE_NOTICE",
+			"businessServiceName": "Legal Show Cause Notice",
+			"navUrl": "/goa-idc/estate/default-notice?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/estate/default-notice?applicationNumber=%s&tenantId=%s",
+			"active": true
+		},
+		{
+			"moduleName": "Legal",
+			"moduleCode": "LGLS",
+			"businessServiceCode": "LEGAL_INSPECTION_SHOW_CAUSE_NOTICE",
+			"businessServiceName": "Legal Show Cause Notice",
+			"navUrl": "/goa-idc/estate/default-notice?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/estate/default-notice?applicationNumber=%s&tenantId=%s",
+			"active": true
+		},
+		{
+			"moduleName": "Engineering",
+			"moduleCode": "ENGINEERING",
+			"businessServiceCode": "WATER_CONNECTION",
+			"businessServiceName": "Water Connection",
+			"navUrl": "/goa-idc/e/waterconnection?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/waterconnection?applicationNumber=%s&tenantId=%s",
+			"active": true
+		},
+		{
+			"moduleName": "Engineering",
+			"moduleCode": "ENGINEERING",
+			"businessServiceCode": "WATER_CONNECTION_BILLING",
+			"businessServiceName": "Water Connection Billing",
+			"navUrl": "/goa-idc/e/waterconnection/payment?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/waterconnection/payment?applicationNumber=%s&tenantId=%s",
+			"active": true
+		},
+		{
+			"moduleName": "Administration",
+			"moduleCode": "ADMIN",
+			"businessServiceCode": "ADMIN_QUERY_DETAILS",
+			"businessServiceName": "Admin Query Details",
+			"navUrl": "/goa-idc/query-entry-workflow?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/query-entry?applicationNumber=%s&tenantId=%s",
+			"active": true
+		},
+		{
+			"moduleName": "Legal",
+			"moduleCode": "LGLS",
+			"businessServiceCode": "LEGAL_QUERY_DETAILS",
+			"businessServiceName": "Legal Query Details",
+			"navUrl": "/goa-idc/query-entry-workflow?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/query-entry?applicationNumber=%s&tenantId=%s",
+			"active": true
+		},
+		{
+			"moduleName": "Estate",
+			"moduleCode": "ESTD",
+			"businessServiceCode": "ESTATE_QUERY_DETAILS",
+			"businessServiceName": "Estate Query Details",
+			"navUrl": "/goa-idc/query-entry-workflow?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/query-entry?applicationNumber=%s&tenantId=%s",
+			"active": true
+		},
+		{
+			"moduleName": "Engineering",
+			"moduleCode": "ENGINEERING",
+			"businessServiceCode": "WF_BPA_CL_RENEWAL",
+			"businessServiceName": "Construction Licence Renewal",
+			"navUrl": "/goa-idc/obpas/renewal/ConstructionLicense?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/obpas/renewal/ConstructionLicense?applicationNumber=%s&tenantId=%s",
+			"active": true
+		},
+		{
+			"moduleName": "Engineering",
+			"moduleCode": "ENGINEERING",
+			"businessServiceCode": "ENGG_QUERY_DETAILS",
+			"businessServiceName": "Engineering Query Details",
+			"navUrl": "/goa-idc/query-entry-workflow?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/query-entry?applicationNumber=%s&tenantId=%s",
+			"active": true
+		},
+		{
+			"moduleName": "OBPAS",
+			"moduleCode": "OBPAS",
+			"businessServiceCode": "IPDC_QUERY_DETAILS",
+			"businessServiceName": "IPDC Query Details",
+			"navUrl": "/goa-idc/query-entry-workflow?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/query-entry?applicationNumber=%s&tenantId=%s",
 			"active": true
 		}
 	]

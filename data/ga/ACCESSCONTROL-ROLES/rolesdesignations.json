@@ -133,6 +133,18 @@
 			"designationCode": "MSC",
 			"designationName": "Member Secretary",
 			"active": true
+		},
+		{
+			"rolecode": "FM_IPDC",
+			"designationCode": "FM_IPDC",
+			"designationName": "Field Manager (IPDC)",
+			"active": true
+		},
+		{
+			"rolecode": "DATA_ENTRY_OPERATOR",
+			"designationCode": "DATA_ENTRY_OPERATOR",
+			"designationName": "Data Entry Operator",
+			"active": true
 		}
 	]
 }
